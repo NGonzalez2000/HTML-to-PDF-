@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+
+.header_ul {
+    list-style-type: none;
+    background-color: #000;
+}
+
+.header_li {
+    display: inline-block;
+}
+
+.hello {
+    color: red;
+    font-size: 32px;
+}
+
+.world {
+    color: blue;
+    font-size: 16px;
+    margin-left: 30px;
+}
